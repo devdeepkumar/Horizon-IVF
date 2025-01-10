@@ -2051,7 +2051,7 @@ input[type=radio] {
 .form-group-icon+.form-control[type=time] {
   padding: 0 15px;
 }
-
+/* 
 .form-group-date .form-group-icon {
   top: 22px;
   left: auto;
@@ -2061,7 +2061,7 @@ input[type=radio] {
   text-align: center;
   border-radius: 50%;
   background-color: #ffffff;
-}
+} */
 
 ::-webkit-inner-spin-button,
 ::-webkit-calendar-picker-indicator {
