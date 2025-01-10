@@ -5498,6 +5498,7 @@ input[type=radio] {
   padding-top: 10px;
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .testimonials-layout2 .testimonial__meta .testimonial__thmb,
